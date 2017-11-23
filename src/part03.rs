@@ -89,7 +89,6 @@ fn read_vec<T: FromStr>() -> Vec<T> {
             },
         }
     }
-
     vec
 }
 
